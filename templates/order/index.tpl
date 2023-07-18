@@ -1,4 +1,4 @@
-{* {var_dump($orderList['order_list'])} *}
+
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
@@ -16,7 +16,7 @@
                         </thead>
                         <tbody>
 
-                            {foreach from=$orderList['order_list'] item=item key=key name=name}
+                            {foreach from=$data['order_list'] item=item key=key name=name}
                                 <tr>
                                     <td>
                                         {$key+1}

@@ -39,8 +39,8 @@ RewriteRule ^(.*)-dn([0-9]+)$ /?m=home&act=news_detail&link=$1&id=$2 [L]
 
 
 
-RewriteRule ^danh-sach-don-hang$ /?m=orderList&act=index [L]
-RewriteRule ^danh-sach-don-hang/([0-9]+)$ /?m=orderDetail&act=index&id=$1 [L]
+RewriteRule ^danh-sach-don-hang$ /?m=order&act=index [L]
+RewriteRule ^danh-sach-don-hang/([0-9]+)$ /?m=order&act=detail&id=$1 [L]
 
 
 

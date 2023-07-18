@@ -1,5 +1,3 @@
-<pre>
-{var_dump($orderDetail['order_list'][0]['buyer_message'])}
 <div class="">
     <div class="row">
         <div class="col-lg-12">
@@ -22,33 +20,36 @@
                         </thead>
                         <tbody>
 
-                            {foreach from=$orderDetail['order_list'][0]['item_list'] item=item key=key name=name}
-                                    <tr>
-                                        <td>
-                                            {$key+1}
-                                        </td>
-                                        <td>{$item.product_id}</td>
-                                        <td class="text-center">
-                                        {$item.product_name}
-                                        </td>
-                                        <td>
-                                            {$item.quantity}
-                                        </td>
-                                        <td>{$item.seller_sku}</td>
-                                        <td class="text-center">
-                                        {$item.sku_id}
-                                        </td>
-                                        <td>
-                                            <img src="{$item.sku_image}" />
-                                        </td>
-                                        <td>
-                                            {$item.sku_original_price}
-                                        </td>
-                                        <td>
-                                        {$item.sku_sale_price}
-                                        </td>
 
-                                        {* <td style="width: 20%">
+                            {foreach from=$data['order_list'][0]['item_list'] item=item key=key }
+
+                                <tr>
+                                   
+                                    <td>
+                                        {$key+1}
+                                    </td>
+                                    <td>{$item.product_id}</td>
+                                    <td class="text-center">
+                                        {$item.product_name}
+                                    </td>
+                                    <td>
+                                        {$item.quantity}
+                                    </td>
+                                    <td>{$item.seller_sku}</td>
+                                    <td class="text-center">
+                                        {$item.sku_id}
+                                    </td>
+                                    <td>
+                                        <img src="{$item.sku_image}" />
+                                    </td>
+                                    <td>
+                                        {$item.sku_original_price}
+                                    </td>
+                                    <td>
+                                        {$item.sku_sale_price}
+                                    </td>
+
+                                    {* <td style="width: 20%">
                                             <a href="#" class="table-link">
                                                 <span class="fa-stack">
                                                     <i class="fa fa-square fa-stack-2x"></i>
@@ -68,14 +69,14 @@
                                                 </span>
                                             </a>
                                         </td> *}
-                                    </tr>
+                                </tr>
                             {/foreach}
 
 
                         </tbody>
                     </table>
                 </div>
-               
+
             </div>
         </div>
     </div>

@@ -4,8 +4,8 @@ $server_sql = 'localhost';
 $user_sql   = 'root';
 $pass_sql   = '';
 $database   = 'citipos_thuctap';//vinateks db
-$app_key = '69c420tj1kljn';
-$app_secret = '04ea7c6b952b3eb9c8097a034a75c45ed743e59a';
+$app_key = '69ckel3hvc6dk';
+$app_secret = '16056434b07911efa3f58609dba3ba1875c316da';
 
 $db = new db();
 $db->setServer ( $server_sql );

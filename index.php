@@ -65,7 +65,7 @@ if ($m == 'panel') {
 			}
 		}
 	}
-} elseif ($m == 'orderList' ||$m='orderDetail') {
+} elseif ($m == 'order') {
 	$client = new Client($app_key, $app_secret);
 	$auth = $client->auth();
 	try {
@@ -86,7 +86,7 @@ if ($m == 'panel') {
 
 				$_SESSION['token'] = $_GET['code'];
 				setcookie('token', $_SESSION['token']);
-				header('Location: http://demotiktok.local/danh-sach-don-hang');
+				header('Location: http://tiktokshop.local/danh-sach-don-hang');
 			} else {
 				header('Location: ' . $authUrl);
 			}
