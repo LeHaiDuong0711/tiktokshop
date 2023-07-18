@@ -1,5 +1,16 @@
-
 <div class="container">
+    
+    <form action="" class="d-flex justify-content-end">
+        
+        
+        <div class="input-group mb-3 w-25">
+            <input type="number" name= max=50 min=0 class="form-control " value="50" placeholder="Enter order quantity">
+            <div class="input-group-append">
+                <button type="button" class="btn btn-danger">reload</button>
+            </div>
+        </div>
+        </form>
+
     <div class="row">
         <div class="col-lg-12">
             <div class="main-box clearfix">
@@ -23,7 +34,7 @@
                                     </td>
                                     <td>{$item.order_id}</td>
                                     <td class="text-center">
-                                    {$item.order_status}
+                                        {$item.order_status}
                                     </td>
                                     <td>
                                         {$item.update_time}
@@ -55,7 +66,7 @@
                         </tbody>
                     </table>
                 </div>
-               
+
             </div>
         </div>
     </div>
