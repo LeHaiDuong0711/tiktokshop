@@ -1,5 +1,6 @@
 <pre>
-{var_dump($orderDetail['order_list'][0]['buyer_message'])}
+{print_r($orderDetail['order_list'][0])}
+
 <div class="">
     <div class="row">
         <div class="col-lg-12">
