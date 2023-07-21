@@ -1,4 +1,5 @@
-{* {var_dump($orderList['order_list'])} *}
+<pre>
+{print_r($orderList['order_list'])}
 <div class="container">
     <div class="row">
         <div class="col-lg-12">

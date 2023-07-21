@@ -1,5 +1,5 @@
 <pre>
-{print_r($orderDetail['order_list'][0])}
+{* {print_r($orderDetail['order_list'][0])} *}
 
 <div class="">
     <div class="row">

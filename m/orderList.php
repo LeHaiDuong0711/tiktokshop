@@ -8,5 +8,6 @@ if ($act == 'index') {
         // 'order_status' => 100, // Unpaid order
         'page_size' => 50,
     ]);
+
     $st->assign('orderList', $orders);
 }

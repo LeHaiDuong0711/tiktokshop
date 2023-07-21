@@ -64,7 +64,7 @@ if ($m == 'panel') {
 			}
 		}
 	}
-} elseif ($m == 'orderList' ||$m='orderDetail'||$m=='order') {
+} elseif ($m == 'orderList' ||$m='orderDetail') {
 	$client = new Client($app_key, $app_secret);
 	$auth = $client->auth();
 	try {
