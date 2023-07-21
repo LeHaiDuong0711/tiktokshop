@@ -1,0 +1,241 @@
+
+
+****** 07/21/23 13:00:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:01:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:02:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:03:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:04:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:05:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:06:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:07:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:08:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:09:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:10:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:11:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:12:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:13:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:14:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:15:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:16:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:17:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:18:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:19:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:20:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:21:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:21:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:21:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:22:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:22:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:23:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:23:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:23:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:24:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:24:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:25:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:25:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:25:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:26:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:27:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>12</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>12</b><br />
+Missing apikey request
+
+****** 07/21/23 13:28:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+Missing apikey request
+
+****** 07/21/23 13:28:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+Missing apikey request
+
+****** 07/21/23 13:28:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+Missing apikey request
+
+****** 07/21/23 13:29:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 13:30:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Notice</b>:  Undefined variable: app_key in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: app_secret in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>11</b><br />
+Missing apikey request
+
+****** 07/21/23 13:30:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:30:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:31:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:31:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:31:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:32:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:33:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:34:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:34:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:34:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:34:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:35:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:35:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:35:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:36:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:36:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:36:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:36:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:37:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:37:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:38:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:38:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:38:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:38:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:39:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:39:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:39:36 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:39:54 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:40:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:40:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:40:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:41:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:42:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:43:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:44:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:44:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:44:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:44:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:45:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:46:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:47:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:47:31 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:47:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:48:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:48:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:49:01 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:49:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:49:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:49:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:50:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:51:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:51:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:51:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:52:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:52:56 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:53:05 ******:[GET]:{"apikey":"0123kSKmsdfrtl234sd","m":"order","act":"list","nod":"cancel"}:[POST]:{"order_id":"577610482708482862","cancel_reason_key":"seller_cancel_reason_out_of_stock","browser":"Chrome"}[dUser]null:[dUserClient]null:\ndone##<br />
+<b>Notice</b>:  Undefined variable: kq in <b>D:\HocViecVNT\APITikTokShop\lazyloading\order.php</b> on line <b>44</b><br />
+{"status":200,"message":"success","data":null}
+
+****** 07/21/23 13:53:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:53:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:54:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:54:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:54:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:55:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:56:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:57:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:58:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 13:59:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

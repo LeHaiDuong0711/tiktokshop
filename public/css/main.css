@@ -3273,6 +3273,15 @@ input[type=checkbox].ace:checked+.lbl::before {
     height: 285px;
 }
 
+.modal-backdrop.fade{
+    background-color: #000;
+    opacity: .5;
+}
+.modal-dialog{
+    margin-top:200px;
+   
+}
+
 div.pop_up_T,
 .bootstrap-dialog-header,
 .modal-header.noborder>h4,
@@ -3282,10 +3291,11 @@ h4#title_menu {
     color: #fff;
     font-weight: 300;
     padding: 14px 0px 14px 14px;
-    text-align: center;
+    text-align: start;
     text-transform: uppercase;
     font-size: 20px;
     margin: 0px;
+    width: 100%;
 }
 
 .btn_pop_close,
@@ -3295,7 +3305,7 @@ h4#title_menu {
     display: block;
     height: 16px;
     position: absolute;
-    right: 15px;
+    right: 0px;
     top: 19px !important;
     width: 16px;
     opacity: 1;

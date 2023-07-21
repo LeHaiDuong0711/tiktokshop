@@ -5485,7 +5485,7 @@ table.table-key tr td .status .cancel {
     font-size: 15px;
 }
 
-.modal-header {
+/* .modal-header {
     text-align: center;
     font-weight: 600;
     font-size: 24px;
@@ -5502,7 +5502,7 @@ table.table-key tr td .status .cancel {
     font-size: 18px;
     text-align: center;
     margin: 15px 0px;
-}
+} */
 
 .img_add_cart img {
     width: 0px;

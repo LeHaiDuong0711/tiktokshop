@@ -1,0 +1,249 @@
+
+
+****** 07/21/23 09:11:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:12:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:12:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:12:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:13:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:13:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:13:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:14:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:14:43 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:14:59 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:15:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:15:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:15:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:16:11 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:16:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:16:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:17:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:17:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:19:04 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:19:22 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:19:40 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:32:03 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\n<br />
+<b>Warning</b>:  include_once(./library/vendor/autoload.php): failed to open stream: No such file or directory in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include_once(): Failed opening './library/vendor/autoload.php' for inclusion (include_path='\xampp\php\PEAR') in <b>D:\HocViecVNT\APITikTokShop\define.php</b> on line <b>10</b><br />
+Missing apikey request
+
+****** 07/21/23 09:32:21 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:32:41 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:33:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:33:18 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:33:35 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:33:53 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:34:12 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:34:29 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:34:48 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:35:06 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:35:24 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:35:42 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:36:16 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:36:34 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:36:52 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:37:10 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:37:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:37:46 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:38:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:38:30 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:38:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:39:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:39:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:39:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:40:09 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:40:27 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:40:45 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:41:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:42:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:43:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:44:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:45:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:46:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:47:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:48:07 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:48:28 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:48:49 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:49:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:49:47 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:50:05 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:50:23 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:50:57 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:51:15 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:51:33 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:51:51 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:52:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:52:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:52:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:53:13 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:54:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:55:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:56:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:57:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:58:00 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:58:19 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:58:37 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:58:55 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request
+
+****** 07/21/23 09:59:17 ******:[GET]:{"m":"notification","act":"popup_user"}:[POST]:{"security":"null"}[dUser]null:[dUserClient]null:\nMissing apikey request

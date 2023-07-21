@@ -4000,7 +4000,7 @@ a.btn_white {
 }
 
 .btn_pop_close,
-.modal .modal-header a.close {
+/* .modal .modal-header a.close {
     background: url(../images/icon.png) no-repeat scroll -149px -494px rgba(0, 0, 0, 0);
     cursor: pointer;
     display: block;
@@ -4011,7 +4011,7 @@ a.btn_white {
     width: 16px;
     opacity: 1;
     text-indent: -99999px;
-}
+} */
 
 .pupop_xuatkho {
     padding: 14px;

@@ -3,15 +3,14 @@ error_reporting(E_ALL);
 ini_set('display_errors', true);
 ini_set('display_startup_errors', true);
 date_default_timezone_set('Asia/Ho_Chi_minh');
-require './library/vendor/autoload.php';
-use NVuln\TiktokShop\Client;
+
 
 
 // echo date('d/m/Y H:i', 1651187600);
 // exit();
 
 include 'define.php';
-
+use NVuln\TiktokShop\Client;
 $title 	= '';
 $m 		= $main->get('m');
 $act 	= $main->get('act');
@@ -65,7 +64,7 @@ if ($m == 'panel') {
 			}
 		}
 	}
-} elseif ($m == 'orderList' ||$m='orderDetail') {
+} elseif ($m == 'orderList' ||$m='orderDetail'||$m=='order') {
 	$client = new Client($app_key, $app_secret);
 	$auth = $client->auth();
 	try {

@@ -111,8 +111,7 @@
         }
     }
 </style> *}
-
-<script type="text/javascript" src="{$domain}/js/bootstrap/bootstrap-dialog.js"></script>
+<script type="text/javascript" src="{$domain}/js/main.js"></script>
 <script type="text/javascript" src="{$domain}/js/bootstrap.js"></script>
 <script type="text/javascript" src="{$domain}/js/jquery.bootstrap-touchspin.js"></script>
 
@@ -126,11 +125,12 @@
 <script type="text/javascript" src="{$domain}/js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="{$domain}/js/jquery.nicescroll.min.js"></script>
 
-<script type="text/javascript" src="{$domain}/js/main.js"></script>
 
-{* <script type="text/javascript" src="{$domain}/js/js_act/{$m}_{$act}.js"></script> *}
+
+<script type="text/javascript" src="{$domain}/js/js_act/{$m}_{$act}.js"></script>
 
 <script type="text/javascript" src="{$domain}/js/global.js"></script>
+<script type="text/javascript" src="{$domain}/js/bootstrap-dialog.js"></script>
 
 
 

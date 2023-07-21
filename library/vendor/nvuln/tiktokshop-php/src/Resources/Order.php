@@ -47,13 +47,5 @@ class Order extends Resource
         ]);
     }
 
-    public function cancelOrder($params=[]){
-        $params = array_merge([
-            'page_size' => 20,
-        ], $params);
-
-        return $this->call('POST', 'search', [
-            RequestOptions::JSON => $params,
-        ]);
-    }
+   
 }

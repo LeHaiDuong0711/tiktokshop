@@ -23,7 +23,7 @@
                                     </td>
                                     <td>{$item.order_id}</td>
                                     <td class="text-center">
-                                    {$item.order_status}
+                                        {$item.order_status}
                                     </td>
                                     <td>
                                         {$item.update_time}
@@ -41,22 +41,27 @@
                                                 <i class="fa fa-pencil fa-stack-1x fa-inverse"></i>
                                             </span>
                                         </a>
-                                        <a href="#" class="table-link danger">
-                                            <span class="fa-stack">
-                                                <i class="fa fa-square fa-stack-2x"></i>
-                                                <i class="fa fa-trash-o fa-stack-1x fa-inverse"></i>
-                                            </span>
-                                        </a>
+                                        {if $item.order_status!=140}
+                                            <a href="" class="table-link danger cancel-btn" data-id="{$item.order_id}">
+                                                <span class="fa-stack" title="Hủy đơn hàng">
+                                                    <i class="fa fa-square fa-stack-2x"></i>
+                                                    <i class="fa fa-trash-o fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                            </a>
+                                        {/if}
+
                                     </td>
                                 </tr>
+                                
                             {/foreach}
 
 
                         </tbody>
                     </table>
                 </div>
-               
+
             </div>
         </div>
     </div>
 </div>
+
